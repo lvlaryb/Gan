@@ -13,9 +13,9 @@ export function ForestFooter() {
       <div className={styles.inner}>
         <div className={styles.grid}>
           <div className={styles.brand}>
-            <p className={styles.brandName}>ForestGan</p>
+            <p className={styles.brandName}>Dulce Recreo</p>
             <p className={styles.brandTagline}>
-              A forest garden where children grow free with nature.
+              A living classroom where children learn and grow free with nature.
             </p>
           </div>
 
